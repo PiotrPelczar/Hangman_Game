@@ -15,7 +15,7 @@ def find_indexes (mysterword, letter):
 
     return indexes
 
-    ##
+    ###
 
 while True:
     letter = input("Try some letter: ")
